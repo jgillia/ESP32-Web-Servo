@@ -1,0 +1,2 @@
+
+void forward(float duration);
